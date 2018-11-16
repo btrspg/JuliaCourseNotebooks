@@ -48,3 +48,7 @@ Temporary Items
 
 # PyCharm
 .idea
+
+# jupyter notebook checkpoint
+
+.ipynb_checkpoints/
